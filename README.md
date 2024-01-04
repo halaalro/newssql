@@ -1,0 +1,2 @@
+# newssql
+my db news
